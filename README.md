@@ -1,11 +1,11 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
-### Aim :
+## Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
-### Equipment Required: 
+## Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
-### Theory: 
+## Theory: 
 
 A pick and place robot has several dedicated parts, such as:
 
@@ -39,7 +39,7 @@ Self-locking
                   ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
-#### Specifications
+### Specifications
 
 Opening stroke	95mm
 Gripping force 	45-160N
@@ -52,10 +52,10 @@ Current	≤1.5A
 
 
 
-### Doosan M1013 industrial collaborative robot manipulator 
+## Doosan M1013 industrial collaborative robot manipulator 
 Doosan Robotics designs collaborative robots for all types of operators, from engineers to teachers to designers of industrial robotics solutions. There are currently 4 robotic arms in the range, including this M1013 ROS robotic arm. With 6 degrees of freedom and a total reach of 1,300 mm, the Doosan M1013 Robotic Arm offers the speed and precision of execution necessary for all types of automated operation.
 
-#### specifications 
+#### Specifications 
 Technical specifications of the Doosan Robotics M1013 arm:
 Degrees of freedom: 6.
 Payload: 10 kg.
@@ -72,7 +72,7 @@ Installation position: floor, ceiling, walls.
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
-#### Procedure : 
+## Procedure : 
 
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
@@ -81,33 +81,23 @@ and click on the connect icon
 
 3. click on the 
 
+## Program
+![program](s1.jpg)
+
+![program](s2.jpg)
+
+![program](s3.jpg)
 
 
+## Output Screenshots of pick and place 
+![output](ss1.jpg)
 
+![output](ss2.jpg)
 
+![output](ss3.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
-
-
-### Results: 
-
+## Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
